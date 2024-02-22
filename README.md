@@ -10,7 +10,7 @@ In this exciting first week, we delved into the art of text manipulation using a
 - 📂 **Practice File** : [Week 1 solved Practice File](https://github.com/Analyticalgeek/Excel_Fundamentals_for_Data_Analysis-Macquarie_University/raw/main/C1W1-Practice-Challenge%20and%20Solution.xlsx)
 
 ## 🌟 Week 2: Charting the Course Through Numbers and Dates
-This week, we delved into the fascinating world of numbers and dates in Excel. ere's a glimpse of what we covered:
+This week, we delved into the fascinating world of numbers and dates in Excel. Here's a glimpse of what we covered:
 - **Converting Data Types**: Discover the power of VALUE and TEXT functions to convert data types seamlessly.
 - **Understanding Dates**: Gain insights into basic date functions such as TODAY, NOW, MONTH, DAY, and YEAR, and learn how to manipulate dates effectively.
 - **Generating Days Between Dates**: Explore various functions to calculate the number of days between two dates, unlocking new possibilities for date-based analysis.
