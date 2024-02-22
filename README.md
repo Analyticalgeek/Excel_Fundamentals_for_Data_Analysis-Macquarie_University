@@ -7,7 +7,7 @@ In this exciting first week, we delved into the art of text manipulation using a
 - **Splitting Data**: Unlocking the secrets of LEFT, MID, and RIGHT functions to dissect and manipulate text strings.
 - **Cleaning Data**: Utilizing CLEAN, TRIM, UPPER, LOWER, and PROPER functions to tidy up messy data and adjust text case.
 - **Replacing Text**: Mastering the art of text substitution with SUBSTITUTE, UNICODE, and UNICHAR functions to tailor data to our needs.
-- 📂 **Practice File** : [Week 1 solved Practice File]([C1W5-Practice-Challenge and Solution.xlsx](https://github.com/Analyticalgeek/Excel_Fundamentals_for_Data_Analysis-Macquarie_University/raw/main/C1W1-Practice-Challenge%20and%20Solution.xlsx))
+- 📂 **Practice File** : ([Week 1 solved Practice File](https://github.com/Analyticalgeek/Excel_Fundamentals_for_Data_Analysis-Macquarie_University/raw/main/C1W1-Practice-Challenge%20and%20Solution.xlsx))
 
 ## 🌟 Week 2: Charting the Course Through Numbers and Dates
 This week, we delved into the fascinating world of numbers and dates in Excel. ere's a glimpse of what we covered:
